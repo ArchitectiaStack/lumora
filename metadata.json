@@ -1,0 +1,6 @@
+{
+  "name": "Lumora",
+  "description": "A premium editorial e-commerce experience for Lumora featuring soft minimalism, curated apparel, and elegant accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
