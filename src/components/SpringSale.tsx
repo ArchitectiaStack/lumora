@@ -67,7 +67,7 @@ export default function SpringSale({ onApplyCoupon, onShowToast, onCartClick }: 
         {/* RIGHT BLOCK (Lifestyle Image flat lay, 7 columns) */}
         <div className="md:col-span-7 h-[280px] sm:h-[350px] md:h-auto relative bg-charcoal/5">
           <img
-            src="/src/assets/images/lumora_spring_sale_1782765349465.jpg"
+            src="https://i.postimg.cc/PxGfCzVR/Take-advantage-of-Tax-Free-Weekend-Own-your-dream-jewelry-and-skip-the-sales-tax-this-weekend-o.jpg"
             alt="Spring Sale flat lay setup"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover select-none"

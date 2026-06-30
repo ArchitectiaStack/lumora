@@ -5,7 +5,7 @@ const HERO_MODEL_IMG = "/src/assets/images/lumora_hero_model_1782765318106.jpg";
 const LUXE_HANDBAG_IMG = "/src/assets/images/lumora_luxe_handbag_1782765334648.jpg";
 const SPRING_SALE_IMG = "/src/assets/images/lumora_spring_sale_1782765349465.jpg";
 const BEAUTY_CATEGORY_IMG = "/src/assets/images/beauty_category_1782765861783.jpg";
-const STRAW_HAT_IMG = "/src/assets/images/straw_hat_1782765876091.jpg";
+const STRAW_HAT_IMG = "https://i.postimg.cc/wMwdQhFN/Women-s-Twill-Lace-Scarf-Floppy-Straw-Sun-Boho-Hat-NEW.jpg";
 
 export const CATEGORIES: Category[] = [
   {
@@ -30,7 +30,7 @@ export const CATEGORIES: Category[] = [
     id: "beauty",
     name: "Beauty",
     itemCount: "80+ items",
-    image: BEAUTY_CATEGORY_IMG
+    image: "https://i.postimg.cc/2ScVSWDj/Glow-with-Confidence-at-Dr-Hina-Sohail-Skin-Laser-Clinic-Karachi-s-Trusted-Aesthetic-Destination.jpg",
   },
   {
     id: "accessories",
@@ -47,7 +47,7 @@ export const PRODUCTS: Product[] = [
     price: 129.0,
     originalPrice: 185.0,
     category: "accessories",
-    image: LUXE_HANDBAG_IMG,
+    image: "https://i.postimg.cc/SxyMsqYX/download-(7).jpg",
     description: "A premium minimalist crossbody bag crafted from supple grained leather. Features a secure structured silhouette, brushed gold hardware, and an adjustable shoulder strap.",
     details: [
       "100% genuine calfskin leather",

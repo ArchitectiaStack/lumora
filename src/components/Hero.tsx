@@ -110,7 +110,7 @@ export default function Hero({
           {/* Model Main Photo */}
           <div className="relative z-10 w-[260px] h-[340px] sm:w-[380px] sm:h-[480px] rounded-t-[160px] overflow-hidden shadow-md border-4 border-alabaster">
             <img
-              src="/src/assets/images/lumora_hero_model_1782765318106.jpg"
+              src="https://i.postimg.cc/521wCLT4/download-(6).jpg"
               alt="Lumora Spring Sage Dress Model"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover transform scale-102 hover:scale-105 transition-transform duration-[2000ms]"
@@ -144,7 +144,7 @@ export default function Hero({
               onClick={() => onProductClick(luxeHandbag)}
             >
               <img
-                src={luxeHandbag.image}
+                src= "https://i.postimg.cc/SxyMsqYX/download-(7).jpg"
                 alt="Floating Luxe Handbag"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
